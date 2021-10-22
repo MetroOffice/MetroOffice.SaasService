@@ -10,10 +10,6 @@ using Volo.Abp.Swashbuckle;
 using Volo.Abp.Threading;
 using MetroService.SaasService.Application;
 using MetroService.SaasService.EntityFrameworkCore;
-using Volo.Abp.AspNetCore.MultiTenancy;
-using Volo.Abp.AspNetCore.Serilog;
-using Volo.Abp.Swashbuckle;
-using Volo.Abp.Autofac;
 
 namespace MetroService.SaasService.HttpApi.Host
 {
